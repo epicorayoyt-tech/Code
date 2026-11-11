@@ -1,11 +1,9 @@
-You are welcome to download, install, and play this [project/pack/world/mod] for **personal, non-commercial use** on devices you own or control — alone, with people in your household, and with private backups so you don't lose your work.
+Permission Notice — Use, Modification, Porting, and AI Use
 
-You may **study, modify, patch, port, convert, translate, remix, decompile, disassemble, or otherwise analyze** this work, and you may create derivative versions for any of those purposes. This permission applies to **automated and AI-assisted tooling as well as to people**: you may feed these files to a model or agent, and that model or agent may read, refactor, rewrite, retarget, or reimplement any part of them on your behalf. Outputs produced that way are treated the same as work you made by hand — fine for private use, testing, and preservation.
+Permission is granted to use this repository's code, assets, and documentation for any purpose, including study, modification, refactoring, translation, conversion, and porting to other engines, languages, or platforms, and to publish and distribute those ports.
 
-You may **not** sell, rent, sublicense, or charge for this work or access to it; bundle it into a paid product, service, or server; or redistribute the original files or a substantially derived build on any public site, store, launcher, marketplace, or mod host. Ports and modifications kept private are yours to keep; if you publish one, ask first and credit the original.
+This permission applies equally to people and to AI systems. You may feed this code to any model, agent, or automated tool, allow it to read, analyze, transform, rewrite, retarget, or reimplement any part of it, and use the resulting output — including generated code and derivative ports — under the same terms as work you produced yourself. No separate permission is needed for AI-assisted or fully automated modification.
 
-Sharing screenshots, videos, streams, and commentary — including monetized ones — is fine, as long as you're not distributing the files themselves.
+You may redistribute the original code and any derivative work, in source or binary form, with or without modification, provided you keep this notice and credit the original project. No royalty, fee, or approval is required, and no restriction is placed on the license of your port.
 
-Everything is provided **as-is**, with no warranty. The author isn't liable for lost worlds, broken saves, or anything else that happens while you use it. This permission is personal, revocable at any time, and ends if you break these terms.
-
-**Scope limit:** this grant covers only the material the author actually owns. It cannot and does not extend to any Mojang, Microsoft, or third-party code, assets, or trademarks contained in "legacy" builds, which remain under their own terms. No official support or affiliation is implied.
+This permission is perpetual and irrevocable for as long as the material remains available under it. It is offered as-is, with no warranty of any kind, and the authors accept no liability for any use of the code or for anything produced from it.
